@@ -29,8 +29,6 @@ namespace ManualTestingMojixBootcamp.src.code.test
             String projectName = "Bootcamp";
 
             leftSiteProject.MouseOverOnProjectName(projectName);
-            ///////////////////////////////////////////////////////////
-            Thread.Sleep(5000);
             leftSiteProject.subMenuIconButton.Click();
             leftSiteProject.ballIconButton.Click();
 

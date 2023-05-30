@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8vPTO/IJA1w5Ld3OI/MJX/nDzALInxz2Jm7VTHKgz1NhoKxnRD9mlYrIDuZguaaoGlB6P0oy4zCPNhuzTW4aPw==",
+  "dgSpecHash": "qw2hoo7ugk6ZUwHZRs+7gHLGBQEjbRRHtIoTY8lmJGVC9QPyf7cJKPoEeKb8woW/i49AjMW/qUc4ZO8uwTP56g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gerson\\source\\repos\\VSTraining\\ManualTestingMojixBootcamp\\ManualTestingMojixBootcamp\\ManualTestingMojixBootcamp.csproj",
+  "projectFilePath": "C:\\Users\\Gerson\\Desktop\\prueba\\Mojix_Bootcamp_Manual_QA_Web_UI_Exercise_Automated\\ManualTestingMojixBootcamp\\ManualTestingMojixBootcamp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gerson\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
     "C:\\Users\\Gerson\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",

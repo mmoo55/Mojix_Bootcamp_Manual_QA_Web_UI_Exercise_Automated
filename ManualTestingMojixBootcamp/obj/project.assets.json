@@ -5479,11 +5479,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gerson\\source\\repos\\VSTraining\\ManualTestingMojixBootcamp\\ManualTestingMojixBootcamp\\ManualTestingMojixBootcamp.csproj",
+      "projectUniqueName": "C:\\Users\\Gerson\\Desktop\\prueba\\Mojix_Bootcamp_Manual_QA_Web_UI_Exercise_Automated\\ManualTestingMojixBootcamp\\ManualTestingMojixBootcamp.csproj",
       "projectName": "ManualTestingMojixBootcamp",
-      "projectPath": "C:\\Users\\Gerson\\source\\repos\\VSTraining\\ManualTestingMojixBootcamp\\ManualTestingMojixBootcamp\\ManualTestingMojixBootcamp.csproj",
+      "projectPath": "C:\\Users\\Gerson\\Desktop\\prueba\\Mojix_Bootcamp_Manual_QA_Web_UI_Exercise_Automated\\ManualTestingMojixBootcamp\\ManualTestingMojixBootcamp.csproj",
       "packagesPath": "C:\\Users\\Gerson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gerson\\source\\repos\\VSTraining\\ManualTestingMojixBootcamp\\ManualTestingMojixBootcamp\\obj\\",
+      "outputPath": "C:\\Users\\Gerson\\Desktop\\prueba\\Mojix_Bootcamp_Manual_QA_Web_UI_Exercise_Automated\\ManualTestingMojixBootcamp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gerson\\AppData\\Roaming\\NuGet\\NuGet.Config",
