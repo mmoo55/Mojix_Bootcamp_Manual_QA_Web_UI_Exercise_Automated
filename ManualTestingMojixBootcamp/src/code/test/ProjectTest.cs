@@ -14,7 +14,7 @@ namespace ManualTestingMojixBootcamp.src.code.test
         [Test]
         public void VerifyCreateProjectTest()
         {
-            String projectName = "Bootcamp"; //+ new Date().getTime();
+            String projectName = "Bootcamp";  //+ new Date().getTime();
 
             leftSiteProject.addNewProjectButton.Click();
             leftSiteProject.projectNameTxtBox.SetText(projectName);
