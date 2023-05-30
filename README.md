@@ -1,0 +1,1 @@
+# Mojix_Bootcamp_Manual_QA_Web_UI_Exercise_Automated
